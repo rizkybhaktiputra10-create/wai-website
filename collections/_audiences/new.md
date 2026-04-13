@@ -28,4 +28,5 @@ It also provides pointers to additional information on a range of topics includi
 * Tips for getting started on web accessibility
 * [Video Introduction to Web Accessibility and W3C Standards](/fundamentals/accessibility-intro/), a 4-minute video with descriptive transcript and subtitles in over 20 languages
 
-The **[Digital Accessibility Foundations - Free Online Course](/courses/foundations-course/)** page introduces a self-paced course from W3C WAI for developers, designers, ux, writers, managers, advocates. It is designed **for technical and non-technical learners**, including students, instructors, professionals, and people with disabilities. The course is free, with optional certificate.
+The **[Digital Accessibility Foundations - Free Online Course](/courses/fou
+ndations-course/)** page introduces a self-paced course from W3C WAI for developers, designers, ux, writers, managers, advocates. It is designed **for technical and non-technical learners**, including students, instructors, professionals, and people with disabilities. The course is free, with optional certificate.
